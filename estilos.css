@@ -1,0 +1,63 @@
+body{
+    background:#97EA93;
+}
+
+.tit{
+    background:#0AEA00;
+    width: 100%;
+}
+
+h1{
+    font-size: 26pt;
+    margin: 2% 40%;
+    font-family:Arial;
+}
+
+.inicio{
+    width:100%;
+    max-width: 100%;
+}
+
+.inicio img{
+    margin: 0 2%;
+    width: 30%;
+    border: 2px solid #000;
+}
+
+.inicio h2{
+    margin:0 40%;
+    width: 80%;
+    font-size: 22pt;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.inicio p{
+    margin: -18% 35%;
+    width: 100%;
+    font-size: 16pt;
+}
+
+.animacion{
+    background: #0CFF00;
+    width: 20%;
+    height: 20%;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.inicio .izquierda{
+    margin: 0 -35%;
+}
+
+.inicio .iz{
+    margin: 20% 0;
+}
+
+.inicio .flecha1 .flecha2{
+    margin: -10% 50%;
+    font-size: 32pt;
+}
+
+.inicio .derecha{
+    margin: -1.4% 65%;
+}
